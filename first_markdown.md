@@ -18,4 +18,4 @@ cell3 | cell6 | cell9
 # first header
 
 [Jennifer Kino](http://github.com/jenniferkino)
-[README.md](./daa/README.md)
+[README.md](./DAA/README.md)
